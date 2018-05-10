@@ -2,7 +2,8 @@
 A Java program to list all possible Levenshtein (i.e., edit) sequences from one string to another with optimal number of inserts/deletes/replaces.
 
 ## Input 
-paris 
+
+paris
 alice
 
 ## Output 
